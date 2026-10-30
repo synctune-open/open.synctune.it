@@ -24,7 +24,7 @@ Keep archived work and partner projects distinct from current releases and
 company-owned projects.
 
 Customer identities, logos, private repositories and delivery details must not
-be added without authorization. The Customers branch describes services, not
+be added without authorization. The Consulting branch describes services, not
 client projects.
 
 Matteo's personal site is linked at `mbianchi.dev`. Denote, Open Playlist and
@@ -33,7 +33,7 @@ FIRE Tools is a partner project from Fire Tools Inc, not a Synctune branch.
 
 ## Brand source and rights
 
-Artwork and unmodified font files come from
+Synctune family artwork and unmodified font files come from
 [synctune-io/branding](https://github.com/synctune-io/branding),
 approved snapshot `55764ef`. Use the branch's outlined SVGs without changing
 their colors, proportions, padding or orientation.
@@ -51,6 +51,14 @@ notices. No new license or trademark clearance is implied for brand artwork.
 No scripts, CDN resources, analytics, cookies, embedded media, forms or booking
 widgets load on this site. Linked services have their own policies. Update the
 page's privacy note if this behavior changes.
+
+## Porto logo
+
+The Porto showcase uses `assets/projects/porto.png`, an unmodified copy of
+`ui/electron/assets/porto.png` from `mbianchidev/porto` at commit
+`22cf0b37e54aa3866cec50f311c6552fbe19dfba`. Keep the original icon and the
+MIT notice in `assets/projects/licenses/porto-MIT.txt`. It is bundled locally;
+the Synctune Open symbol remains the identifier for the branch itself.
 
 ## Before publishing a change
 
