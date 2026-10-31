@@ -1,0 +1,21 @@
+:root { --signal: #4CDEEC; }
+
+.gate {
+  border: 1px solid var(--signal);
+  border-right-width: 8px;
+  border-bottom-width: 8px;
+}
+
+.gate::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  right: -8px;
+  width: 64px;
+  height: 64px;
+  border-left: 1px solid var(--signal);
+  border-bottom: 1px solid var(--signal);
+  background: var(--ink);
+}
+
+.gate .art-caption { color: var(--signal); }
