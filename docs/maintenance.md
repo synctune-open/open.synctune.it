@@ -65,6 +65,12 @@ the Synctune Open symbol remains the identifier for the branch itself.
 
 ## Before publishing a change
 
+Describe what the tools do, without explaining branch focus or website
+independence. Use verified project marks, not branch-symbol or framework-icon
+placeholders. `assets/projects/provenance.json` records local artwork, original
+source revisions, checksums and retained notices. Keep asset copies inside this
+repository so the site does not rely on a sibling website.
+
 Preview narrow and wide screens. Check local assets, anchors, outbound
 destinations and keyboard focus. Open the privacy disclosure with the keyboard.
 Keep `CNAME`, canonical URLs, `robots.txt` and `sitemap.xml` consistent if the
