@@ -1,0 +1,42 @@
+[
+  {
+    "project": "ImgTools",
+    "asset": "assets/projects/img-tools.svg",
+    "sha256": "43fa561a58226b4d4562d12337127f112ada053296a5f554b59317bd8b80a569",
+    "license": "MIT",
+    "repo": "mbianchidev/img-tools",
+    "revision": "a37fe66b3a87f18fc83743d0ec8b7383a878cba9",
+    "source": "public/favicon.svg",
+    "notice": "assets/projects/licenses/img-tools-LICENSE.txt"
+  },
+  {
+    "project": "PDFTools",
+    "asset": "assets/projects/pdf-tools.svg",
+    "sha256": "202a0648b714d28a43227d44f54c1d1962dbc13d2c96f096b2c256a8a1cecff0",
+    "license": "MIT",
+    "repo": "mbianchidev/pdf-tools",
+    "revision": "b189b92a492b85d46058fdf94f3aed9b5df415e8",
+    "source": "frontend/public/favicon.svg",
+    "notice": "assets/projects/licenses/pdf-tools-LICENSE.txt"
+  },
+  {
+    "project": "Eisen Todo",
+    "asset": "assets/projects/eisen-todo.svg",
+    "sha256": "e969e60d4074a7ed3d0ef305e26e935a54a886c05f9ba1627b793c21581324df",
+    "license": "MIT",
+    "repo": "mbianchidev/eisen-todo",
+    "revision": "8780c235f7932d39f21591b975a900a79e96e6ef",
+    "source": "src/favicon.svg",
+    "notice": "assets/projects/licenses/eisen-todo-LICENSE.txt"
+  },
+  {
+    "project": "Porto",
+    "asset": "assets/projects/porto.png",
+    "sha256": "27f8837df9359170316cc1f75129c4ff4fdc9e106247192ee319eb79ec8ddf79",
+    "license": "MIT",
+    "repo": "mbianchidev/porto",
+    "revision": "22cf0b37e54aa3866cec50f311c6552fbe19dfba",
+    "source": "ui/electron/assets/porto.png",
+    "notice": "assets/projects/licenses/porto-MIT.txt"
+  }
+]
