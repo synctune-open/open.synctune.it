@@ -22,6 +22,10 @@ including projects still under `mbianchidev`. Some organization-profile links
 describe planned transfers and must not be copied without checking them.
 Update the company directory on `synctune.it` when changing branch entries.
 
+When a project has a working live app, demo or website, link it first and the
+source second, inside a `<div class="card-links">`. Mark archived repositories
+with the Archive label.
+
 Keep private projects unlinked and label their availability. Do not invent
 release dates, store listings, testimonials or product screenshots.
 Keep archived work and partner projects distinct from current releases and

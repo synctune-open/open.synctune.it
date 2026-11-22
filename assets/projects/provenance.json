@@ -86,5 +86,15 @@
     "revision": "662b693fdfd13347e2f385ed2814f5eb4dc5459b",
     "source": "docs/assets/logo.svg",
     "notice": "assets/projects/licenses/latex-editor-LICENSE.txt"
+  },
+  {
+    "project": "Shipwatch",
+    "asset": "assets/projects/shipwatch.png",
+    "sha256": "5c4cf5c226e948ea3fc727b3e5024c91de8577ead7732319e4ae162f7657c94d",
+    "license": "MIT",
+    "repo": "mbianchidev/shipwatch",
+    "revision": "426496b10a0fa6961b3ccb58879fc3913a326263",
+    "source": "docs/logo.png",
+    "notice": "assets/projects/licenses/shipwatch-LICENSE.txt"
   }
 ]
