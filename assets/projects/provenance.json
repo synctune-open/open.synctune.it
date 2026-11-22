@@ -54,9 +54,7 @@
     "asset": "assets/projects/etcqlite.svg",
     "sha256": "9e82859e28e710e16348f6631312cd26d05ced03786fcfcf0428473fb665542f",
     "license": "MIT",
-    "repo": "mbianchidev/etcqlite",
-    "revision": "fd4ebd134708102c77b4f229efba5c93a0be0bf1",
-    "source": "docs/assets/logo.svg",
+    "source": "etcqlite project logo (private repository)",
     "notice": "assets/projects/licenses/etcqlite-LICENSE.txt"
   },
   {
