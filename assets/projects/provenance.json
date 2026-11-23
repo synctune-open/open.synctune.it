@@ -86,5 +86,35 @@
     "revision": "662b693fdfd13347e2f385ed2814f5eb4dc5459b",
     "source": "docs/assets/logo.svg",
     "notice": "assets/projects/licenses/latex-editor-LICENSE.txt"
+  },
+  {
+    "project": "Shipwatch",
+    "asset": "assets/projects/shipwatch.png",
+    "sha256": "5c4cf5c226e948ea3fc727b3e5024c91de8577ead7732319e4ae162f7657c94d",
+    "license": "MIT",
+    "repo": "mbianchidev/shipwatch",
+    "revision": "426496b10a0fa6961b3ccb58879fc3913a326263",
+    "source": "docs/logo.png",
+    "notice": "assets/projects/licenses/shipwatch-LICENSE.txt"
+  },
+  {
+    "project": "SQL not-so-lite",
+    "asset": "assets/projects/sql-not-so-lite.svg",
+    "sha256": "50cd380e8bb62470c8738eb58ae3c5d140bfaa9deb8e85a85a77455f723d46f9",
+    "license": "MIT",
+    "repo": "mbianchidev/sql-not-so-lite",
+    "revision": "66e2c1e563bb14fd50ddf558dc44a04c3d0d6539",
+    "source": "docs/assets/logo.svg",
+    "notice": "assets/projects/licenses/sql-not-so-lite-LICENSE.txt"
+  },
+  {
+    "project": "SendBox Fleet",
+    "asset": "assets/projects/sendbox-fleet.svg",
+    "sha256": "4db0b676fce9ae5a39ee23d3bf39059951796948642d1707b7cd404b854673c5",
+    "license": "Apache-2.0",
+    "repo": "mbianchidev/sendbox-fleet",
+    "revision": "1a3636da43d9122cee1f6e3a9dc8e2bba28063fe",
+    "source": "docs/assets/logo.svg",
+    "notice": "assets/projects/licenses/sendbox-fleet-LICENSE.txt"
   }
 ]
