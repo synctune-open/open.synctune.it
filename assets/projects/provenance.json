@@ -31,12 +31,12 @@
   },
   {
     "project": "Porto",
-    "asset": "assets/projects/porto.png",
-    "sha256": "27f8837df9359170316cc1f75129c4ff4fdc9e106247192ee319eb79ec8ddf79",
+    "asset": "assets/projects/porto.svg",
+    "sha256": "7ba6acd9fc14e06a203f59d7a34b17dea24f0bdf070b5598da4e4c277e691cad",
     "license": "MIT",
-    "repo": "mbianchidev/porto",
-    "revision": "22cf0b37e54aa3866cec50f311c6552fbe19dfba",
-    "source": "ui/electron/assets/porto.png",
+    "repo": "porto-containers/porto",
+    "revision": "4b9dbdb0501c2d515c524108dde04d7c98f30c2c",
+    "source": "ui/public/favicon.svg",
     "notice": "assets/projects/licenses/porto-MIT.txt"
   },
   {
@@ -44,7 +44,7 @@
     "asset": "assets/projects/sendbox.svg",
     "sha256": "2c28d4dc333797682f8b526f494e7ac29ac286f6b876d4b150b1ba30ccee0d41",
     "license": "Apache-2.0",
-    "repo": "mbianchidev/sendbox",
+    "repo": "sendbox-dev/sendbox",
     "revision": "d3a7e62d7f56c40dc527ec919af3cecc02c50945",
     "source": "docs/assets/logo.svg",
     "notice": "assets/projects/licenses/sendbox-LICENSE.txt"
@@ -72,7 +72,7 @@
     "asset": "assets/projects/stainless.png",
     "sha256": "10629ecd1024494a47163f3a585c1481fbecdd6cfc1f6931bdbcce06caff99af",
     "license": "Apache-2.0",
-    "repo": "mbianchidev/stainless",
+    "repo": "stainless-browser/stainless",
     "revision": "400428fccce36ee7013da64744cd290001a78b09",
     "source": "chromium/branding/stainless-icon.png, resized from 1024 to 256 px",
     "notice": "assets/projects/licenses/stainless-LICENSE.txt"
@@ -112,7 +112,7 @@
     "asset": "assets/projects/sendbox-fleet.svg",
     "sha256": "4db0b676fce9ae5a39ee23d3bf39059951796948642d1707b7cd404b854673c5",
     "license": "Apache-2.0",
-    "repo": "mbianchidev/sendbox-fleet",
+    "repo": "sendbox-dev/sendbox-fleet",
     "revision": "1a3636da43d9122cee1f6e3a9dc8e2bba28063fe",
     "source": "docs/assets/logo.svg",
     "notice": "assets/projects/licenses/sendbox-fleet-LICENSE.txt"
